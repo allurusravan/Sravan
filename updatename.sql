@@ -1,4 +1,3 @@
-UPDATE students
-SET firstname = 'Alan'
-WHERE SNO = 1;
+insert into students
+VALUES(101,'Anjana','5A');
 
