@@ -1,4 +1,4 @@
-insert into students
+insert into emp
 VALUES(5,'sreelal');
 commit;
 
