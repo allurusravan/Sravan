@@ -1,4 +1,4 @@
 update emp
-set firstname='Aby'
+set firstname='Anjana'
 where sno=4;
 commit;
