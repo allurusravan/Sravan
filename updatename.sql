@@ -1,4 +1,4 @@
 update uk
-set firstname='Robin'
-where sno=4;
+set firstname='Minto'
+where sno=3;
 commit;
